@@ -1,5 +1,5 @@
 # 🍔 HamburgueriaZ  
-**Projeto de Portfólio – 5º semestre de Análise e Desenvolvimento de Sistemas**
+**Projeto de Portfólio – 5º semestre de Análise e Desenvolvimento de Sistemas - Desenvolvimento Mobile**
 
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
