@@ -45,3 +45,7 @@ Durante esse projeto, aprimorei habilidades como:
 - Manipulação de componentes Android
 - Comunicação entre atividades com Intents
 - Exportação de builds no Android Studio
+
+## 🎬 Demonstração
+
+<img src="demo.gif" width="300"/>
